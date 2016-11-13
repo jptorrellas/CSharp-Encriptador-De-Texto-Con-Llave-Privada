@@ -1,0 +1,25 @@
+C:\Users\A55\Desktop\SD\SD\SD\bin\Release\SD.exe
+C:\Users\A55\Desktop\SD\SD\SD\bin\Release\SD.pdb
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\SD.Form1.resources
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\SD.Properties.Resources.resources
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\SD.exe
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Release\SD.pdb
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\bin\Release\SD.exe
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\bin\Release\SD.pdb
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.Form1.resources
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.Properties.Resources.resources
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.exe
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.pdb
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.exe
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.pdb
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\bin\Release\SD.exe
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\bin\Release\SD.pdb
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.Form1.resources
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.Properties.Resources.resources
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Release\SD.csproj.GenerateResource.Cache

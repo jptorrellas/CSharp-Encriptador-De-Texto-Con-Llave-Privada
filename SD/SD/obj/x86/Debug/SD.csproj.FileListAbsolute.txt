@@ -1,0 +1,26 @@
+C:\Users\A55\Desktop\SD\SD\SD\bin\Debug\SD.exe
+C:\Users\A55\Desktop\SD\SD\SD\bin\Debug\SD.pdb
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\SD.Form1.resources
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\SD.Properties.Resources.resources
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\SD.exe
+C:\Users\A55\Desktop\SD\SD\SD\obj\x86\Debug\SD.pdb
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.exe
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.pdb
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\bin\Debug\SD.exe
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\bin\Debug\SD.pdb
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.Form1.resources
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.Properties.Resources.resources
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\A55\Desktop\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.exe
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.pdb
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\bin\Debug\SD.exe
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\bin\Debug\SD.pdb
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.csprojResolveAssemblyReference.cache
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.Form1.resources
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.Properties.Resources.resources
+D:\04. Trabajo\02. Desarrollo Personal\Programacion\Proyectos Encriptacion\SD\SD\SD\obj\x86\Debug\SD.csproj.GenerateResource.Cache
